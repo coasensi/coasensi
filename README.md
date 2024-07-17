@@ -1,6 +1,6 @@
 - 👋 Hi, I’m charles
 - 👀 I’m interested in sports, technology, finance and music
-- 🌱 I’m currently learning python, c++, c# and matlab
+- 🌱 I’m currently developing in python, c++, c# and matlab
 - 📫 How to reach me: odendhalcharles@gmail.com
 
 <!---
