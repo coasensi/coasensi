@@ -1,6 +1,6 @@
 - 👋 Hi, I’m charles
-- 👀 I’m interested in sports, technology, finance and music
-- 🌱 I’m currently developing in python, c++, c# and matlab
+- 👀 I am passionate about sports, technology, finance and music
+- 🌱 I am currently developing in python, c++, c#, matlab and more
 - 📫 How to reach me: charles.odendhal@dauphine.eu
 
 <!---
