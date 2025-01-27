@@ -1,7 +1,7 @@
 - 👋 Hi, I’m charles
 - 👀 I am passionate about sports, technology, finance and music
 - 🌱 I am currently developing in python, c#, matlab and more
-- 📫 How to reach me: charles.odendhal@dauphine.eu
+- 📫 reach me: charles.odendhal@dauphine.eu
 
 <!---
 coasensi/coasensi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
